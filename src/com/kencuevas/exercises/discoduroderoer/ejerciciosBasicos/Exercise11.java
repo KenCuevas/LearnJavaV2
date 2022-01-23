@@ -1,4 +1,4 @@
-package EjerciciosBasicos;
+package com.kencuevas.exercises.discoduroderoer.ejerciciosBasicos;
 /**
  * Author: Kenny Cuevas
  * Date 08-01-2020

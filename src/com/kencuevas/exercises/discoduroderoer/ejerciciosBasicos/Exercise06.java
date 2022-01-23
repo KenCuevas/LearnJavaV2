@@ -1,4 +1,4 @@
-package EjerciciosBasicos;
+package com.kencuevas.exercises.discoduroderoer.ejerciciosBasicos;
 
 import javax.swing.*;
 
