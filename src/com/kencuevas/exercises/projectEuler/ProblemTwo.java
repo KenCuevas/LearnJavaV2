@@ -20,6 +20,9 @@ public class ProblemTwo {
             c = serie + b;
             serie = b;
             b = c;
+            if (c % 2 == 0){
+                System.out.println("i = " + i);
+            }
         }
     }
 }

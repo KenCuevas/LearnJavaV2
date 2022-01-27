@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8õ®Ëé/
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Âª×şÿÿÿÿ
